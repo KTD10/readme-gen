@@ -1,24 +1,25 @@
 # README
 
 * [Installation](#installation)
+* [Description](#description)
 * [Usage](#usage)
 * [Contribution](#contribution)
 * [Credits](#credits)
 * [License](#license)
 # Installation
-GOOGLE
+The internet
 ## Usage
-OPEN AND HAVE FUN
+computer
 ## Contribution
-undefined
+asdf
 ### Instructions
-NO
+No
 ## Credits
-KEVIN
+KEVIN DEVORe
 ## License
-The MIT License
+Apache License
 
 # Contact
-* GitHub :KTD10
-* Linkedin :KTDYAMOTHA
-* Email: YAMOTHA@yahoo.com
+* GitHub :KTD!)
+* Linkedin :adf
+* Email: adjfkl

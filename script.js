@@ -15,6 +15,17 @@ inquirer
           return "I need a value to continue";
         }
       },
+    }, {
+      type: "input",
+      message: "Describe your application",
+      name: "description",
+      valitdate: (value) => {
+        if (value) {
+          return true;
+        } else {
+          return "I need a value to continue";
+        }
+      },
     },
     {
       type: "input",
@@ -149,6 +160,7 @@ inquirer
       const template = `# ${title}
 
 * [Installation](#installation)
+* [Description](#description)
 * [Usage](#usage)
 * [Contribution](#contribution)
 * [Credits](#credits)
